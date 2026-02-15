@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Iago! ⚡
 
-<!--
-**IagodFarias/IagodFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Hardware Developer | Embedded Systems | Microelectronics
+Engenheiro em formação focado em design digital e arquitetura de computadores.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Estudante de Engenharia (adicione sua faculdade aqui)
+- 💾 Especialista em **SystemVerilog** e **VHDL** para FPGAs e ASICs.
+- ⚡ Interessado em RISC-V, Processamento de Sinais e Verificação Formal.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 📟 HDLs & Design Digital
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-3B5526?style=for-the-badge&logo=cpu&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge&logoColor=black)
+
+### ⚙️ EDA & Simulação
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314EAB?style=for-the-badge&logo=kicad&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagodFarias&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagodFarias&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
