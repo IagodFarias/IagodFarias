@@ -27,9 +27,10 @@ Engenheiro em formação focado em design digital e arquitetura de computadores.
 ---
 
 ## 📊 Estatísticas
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagodFarias&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagodFarias&layout=compact&theme=tokyonight)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IagodFarias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Iago" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagodFarias&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+</p>
 ---
 
 ## 📫 Contato
